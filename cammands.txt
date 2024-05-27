@@ -7,3 +7,7 @@ git commit
 git restore
 git status
 git log
+git config --blobal user.name "add name"
+git config --blobal user.email "email"
+
+hello
